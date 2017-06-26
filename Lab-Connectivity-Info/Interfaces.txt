@@ -1,0 +1,17 @@
+MDS-A : fc1/4	MDS-B : fc1/5
+-----------------------------
+
+N7k-IT1A : e3/9	N7k-IT2A : e3/10  N7k-IT3A : e3/15
+N7k-IT1B : e3/9	N7k-IT2B : e3/10  N7k-IT3B : e3/15
+
+N7kA-n5kA : e3/13	N7kA-n5kB: e3/14  
+N7kB-n5kA : e3/13	N7kB-n5kB: e3/14 
+
+
+N7kA-FI-x : e3/12	
+N7kB-FI-x : e3/12	
+
+
+
+ 
+   
