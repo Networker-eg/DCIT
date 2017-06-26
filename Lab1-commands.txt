@@ -1,0 +1,8 @@
+# Display vmk port group 
+esxcli network ip interface list
+
+#Display Standard switch portgroups
+esxcli network vswitch standard portgroup list
+
+#Display Standard switch portgroups
+esxcli network ip interface ipv4 get
