@@ -1,0 +1,26 @@
+MDS-A : 	MDS-B : 
+-----------------------------
+
+N7k-IT1A : 	N7k-IT2A : 	  N7k-IT3A : 
+N7k-IT1B : 	N7k-IT2B : 	  N7k-IT3B : 
+
+N7kA-n5kA : 		N7kA-n5kB:  
+N7kB-n5kA : 		N7kB-n5kB: 
+
+
+N7kA-FI-x : 	
+N7kB-FI-x : 
+
+-----------------------------	
+
+
+n5kA-N7kA : 		n5kA-N7kB:
+n5kB-N7kA : 		n5kB-N7kB:
+
+
+n5kA-N5kB : 		n5kA-N7kB: 
+
+
+
+ 
+   
