@@ -1,5 +1,5 @@
 # Display vmk port group 
-esxcli network ip interface list
+esxcli network ip interface list-ip
 
 #Display Standard switch portgroups
 esxcli network vswitch standard portgroup list
